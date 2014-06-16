@@ -48,14 +48,14 @@
 				            <td><a href="https://www.google.com/calendar/embed?mode=week&amp;src=jervisthompson%40gmail.com&amp;ctz=America/New_York" target="_blank">Google</a></td>
 				        </tr>
 				        <tr>
-				            <td>Troy Finamore</td>
-				            <td><a href="mailto:twf23@drexel.edu">twf23@drexel.edu</a></td>
-				            <td></td>
-				        </tr>
-				        <tr>
 				            <td>Phil Sinatra</td>
 				            <td><a href="mailto:ps42@drexel.edu">ps42@drexel.edu</a></td>
-				            <td></td>
+			    					<td><a href="https://www.google.com/calendar/embed?src=fj02v2f4vn246mqj13022hntgs%40group.calendar.google.com&amp;ctz=America/New_York" target="_blank">Google</a></td>
+				        </tr>
+				        <tr>
+				            <td>Troy Finamore</td>
+				            <td><a href="mailto:twf23@drexel.edu">twf23@drexel.edu</a></td>
+			    					<td><a href="https://www.google.com/calendar/embed?src=k4dfi4ao1d6d9h0pm7a6f8ic0k%40group.calendar.google.com&amp;ctz=America/New_York" target="supwin">Google</a></td>
 				        </tr>
 				    </tbody>
 				</table>

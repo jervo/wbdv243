@@ -50,5 +50,8 @@ Thumbs.db
 *.sass-cache
 *.ibook
 
+build/roster/
 build/sftp-config.json
-build/roster/images/
+*.sublime-project
+*.sublime-workspace
+config.codekit

@@ -29,7 +29,7 @@
 			<!-- / .header -->
 
 			<div class="content">
-				<h2 class="content-subhead"><a class="btn-week" data-toggle="week1">Week 01 .. 06/27</a></h2>
+				<h2 class="content-subhead"><a class="btn-week" data-toggle="week1">Week 01</a></h2>
 				<section id="week1" class="agenda-week">
 					<ul>
 						<li>Introductions</li>
@@ -43,22 +43,37 @@
 								<li>domainname.com/wbdv243/</li>
 							</ul>
 						</li>
+						<li>Project Overview:
+							<ul>
+								<li>create content</li>
+								<li>PHP basics &amp; fundamentals</li>
+								<li>Wordpress</li>
+								<li>Theme selection</li>
+								<li>Theme customization</li>
+							</ul>
 						</li>
 					</ul>
 					<aside><p>Week 01 Assignment</p></aside>
 
 					<p><b>Reading Assignment</b>: Due: Prior to next class</p>
 					<ul>
+						<li><u>BRING TO CLASS:</u> students must have FTP login information, and dashboard login information in preparation for Wordpress installation.</li>
 						<li>Read <a href="http://library.books24x7.com.ezproxy2.library.drexel.edu/toc.aspx?bookid=35680" target="_blank">Beginning WordPress 3: Make Great Websites the Easy Way</a>. YES, you have 2 weeks to read the entire book!</li>
 					</ul>
 				</section>
 
-				<h2 class="content-subhead"><a class="btn-week" data-toggle="week2">Week 02 .. 07/04</a></h2>
+				<h2 class="content-subhead"><a class="btn-week" data-toggle="week2">Week 02 </a></h2>
 				<section id="week2" class="agenda-week">
-					<h2>Holiday - No Class :)</h2>
+					<h2>PHP Overview</h2>
+					<ul>
+						<li>Introduction</li>
+						<li>The Basics</li>
+						<li>Control Structures</li>
+						<li>Example Site</li>
+					</ul>
 				</section>
 
-				<h2 class="content-subhead"><a class="btn-week" data-toggle="week3">Week 03 .. 07/11</a></h2>
+				<h2 class="content-subhead"><a class="btn-week" data-toggle="week3">Week 03</a></h2>
 				<section id="week3" class="agenda-week">
 					<p>
 						Site of the Week
@@ -120,7 +135,7 @@
 					</ul>
 				</section>
 
-				<h2 class="content-subhead"><a class="btn-week" data-toggle="week4">Week 04 .. 07/18</a></h2>
+				<h2 class="content-subhead"><a class="btn-week" data-toggle="week4">Week 04</a></h2>
 				<section id="week4" class="agenda-week">
 					<p>
 						Site of the Week
@@ -182,7 +197,7 @@
 					<p><small>Regarding your reading assignment, bring with you to class a single sheet of paper. This single piece of paper will have on it three MEANINGFUL questions from the reading assignment, the answer to each question and the page number the information came from. At the top of the page you will put your full name and drexel email address. These questions will be used next class for an extra credit game. If you do not meet the listed requirements, you will NOT be eligible to participate and will NOT receive credit for the assignment.</small></p>
 				</section>
 
-				<h2 class="content-subhead"><a class="btn-week" data-toggle="week5">Week 05 .. 07/25</a></h2>
+				<h2 class="content-subhead"><a class="btn-week" data-toggle="week5">Week 05</a></h2>
 				<section id="week5" class="agenda-week">
 					<p>
 						Site of the Week
@@ -243,7 +258,7 @@
 					</ul>
 				</section>
 
-				<h2 class="content-subhead"><a class="btn-week" data-toggle="week6">Week 06 .. 08/01</a></h2>
+				<h2 class="content-subhead"><a class="btn-week" data-toggle="week6">Week 06</a></h2>
 				<section id="week6" class="agenda-week">
 					<p>
 						Site of the Week
@@ -285,7 +300,7 @@
 					</ul>
 				</section>
 
-				<h2 class="content-subhead"><a class="btn-week" data-toggle="week7">Week 07 .. 08/08</a></h2>
+				<h2 class="content-subhead"><a class="btn-week" data-toggle="week7">Week 07</a></h2>
 				<section id="week7" class="agenda-week">
 					<p>
 						Site of the Week
@@ -332,7 +347,7 @@
 					</ul>
 				</section>
 
-				<h2 class="content-subhead"><a class="btn-week" data-toggle="week8">Week 08 .. 08/15</a></h2>
+				<h2 class="content-subhead"><a class="btn-week" data-toggle="week8">Week 08</a></h2>
 				<section id="week8" class="agenda-week">
 					<p>
 						Site of the Week
@@ -371,7 +386,7 @@
 					</ul>
 				</section>
 
-				<h2 class="content-subhead"><a class="btn-week" data-toggle="week9">Week 09 .. 08/22</a></h2>
+				<h2 class="content-subhead"><a class="btn-week" data-toggle="week9">Week 09</a></h2>
 				<section id="week9" class="agenda-week">
 					<p>
 						Today
@@ -382,7 +397,7 @@
 					</ul>
 				</section>
 
-				<h2 class="content-subhead"><a class="btn-week" data-toggle="week10">Week 10 .. 08/29</a></h2>
+				<h2 class="content-subhead"><a class="btn-week" data-toggle="week10">Week 10</a></h2>
 				<section id="week10" class="agenda-week">
 					<p>
 						Today
