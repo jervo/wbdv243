@@ -32,19 +32,26 @@
 				<ul>
 
 				<?php
-				$dir = 'roster/';
+				$dir      = 'roster/';
+				$sections = array();
 
 				if ($handle = opendir($dir)) {
 					while (false !== ($entry = readdir($handle))) {
 						if ($entry != '.' && $entry != '..' && $entry != '.DS_Store' && $entry != '_sample.html' && $entry != 'images') {
-							echo '<li>';
-							echo '<a href="' . $dir . $entry . '" target="_blank" ';
-							echo 'onclick="return popitup(\'' . $dir . $entry . '\')"';
-							echo '>';
-							echo substr($entry, 0, -5);
-							echo '</a>';
-							echo '</li>';
+							array_push($sections, $entry);
 						}
+					}
+
+					rsort($sections);
+
+					foreach ($sections as $entry) {
+						echo '<li>';
+						echo '<a href="' . $dir . $entry . '" target="_blank" ';
+						echo 'onclick="return popitup(\'' . $dir . $entry . '\')"';
+						echo '>';
+						echo substr($entry, 0, -5);
+						echo '</a>';
+						echo '</li>';
 					}
 				}
 				?>
