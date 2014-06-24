@@ -64,7 +64,7 @@
 
 				<h2 class="content-subhead"><a class="btn-week" data-toggle="week2">Week 02 </a></h2>
 				<section id="week2" class="agenda-week">
-					<h2>PHP Overview</h2>
+					<h2><a href="php-preview/default.html" target="_blank">PHP Overview</a></h2>
 					<ul>
 						<li>Introduction</li>
 						<li>The Basics</li>
