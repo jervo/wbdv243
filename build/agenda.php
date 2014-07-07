@@ -119,7 +119,8 @@
 						</li>
 					</ul>
 					<aside><p>Week 03 Assignment 01</p></aside>
-					<p>
+					<p><a href="https://learn.dcollege.net/" target="bblearn">BBLearn</a></p>
+					<!-- <p>
 						Due: Midnight the night before next class
 					</p>
 					<ul>
@@ -132,7 +133,7 @@
 							</ul>
 						</li>
 						<li>The URL to your web site should be "http://www.DN.com/wbdv243/". Replace "DN" with your actual domain name.</li>
-					</ul>
+					</ul> -->
 				</section>
 
 				<h2 class="content-subhead"><a class="btn-week" data-toggle="week4">Week 04</a></h2>
@@ -162,7 +163,8 @@
 						</li>
 					</ul>
 					<aside><p>Week 04 Assignment 02</p></aside>
-					<p>
+					<p><a href="https://learn.dcollege.net/" target="bblearn">BBLearn</a></p>
+					<!-- <p>
 						Due: Midnight the night before next class
 					</p>
 					<ul>
@@ -176,7 +178,7 @@
 						</li>
 						<li>The URL to your web site should be "http://www.DN.com/wbdv243/". Replace "DN" with your actual domain name.</li>
 						<li>Locate and install a free theme that you really like (layout &amp; functionality wise), but DO NOT active it.</li>
-					</ul>
+					</ul> -->
 
 					<hr class="soften">
 
@@ -217,7 +219,8 @@
 						<li>Customizing theme with child style.css</li>
 					</ul>
 					<aside><p>Week 05 Midterm Project</p></aside>
-					<p>
+					<p><a href="https://learn.dcollege.net/" target="bblearn">BBLearn</a></p>
+					<!-- <p>
 						Due: Midnight the night before next class
 					</p>
 					<ul>
@@ -255,7 +258,7 @@
 					<p>Submit via your drexel email account to your instructor email account, subject: "wbdv243midterms###jwt23" [replace ### with your class section number, replace jwt23 with your drexel email account prefix]</p>
 					<ul>
 						<li>A direct valid link to download your midterm zip file.</li>
-					</ul>
+					</ul> -->
 				</section>
 
 				<h2 class="content-subhead"><a class="btn-week" data-toggle="week6">Week 06</a></h2>
@@ -275,7 +278,8 @@
 						<li>Create CHILD theme - lab</li>
 					</ul>
 					<aside><p>Week 06 Assignment 03</p></aside>
-					<p>
+					<p><a href="https://learn.dcollege.net/" target="bblearn">BBLearn</a></p>
+					<!-- <p>
 						Due: Midnight the night before next class
 					</p>
 					<ul>
@@ -288,7 +292,7 @@
 							</ul>
 						</li>
 						<li>The URL to your web site should be "http://www.DN.com/wbdv243/". Replace "DN" with your actual domain name.</li>
-					</ul>
+					</ul> -->
 
 					<hr class="soften">
 
@@ -316,7 +320,8 @@
 						<li>Create a basic Wordpress Theme from scratch</li>
 					</ul>
 					<aside><p>Week 07 Assignment 04</p></aside>
-					<p>
+					<p><a href="https://learn.dcollege.net/" target="bblearn">BBLearn</a></p>
+					<!-- <p>
 						Due: Midnight the night before next class
 					</p>
 					<ul>
@@ -330,7 +335,7 @@
 							</ul>
 						</li>
 						<li>The URL to your web site should be "http://www.DN.com/wbdv243/". Replace "DN" with your actual domain name.</li>
-					</ul>
+					</ul> -->
 					<hr class="soften">
 					<p>
 						<b>Reading Assignment</b>: Due: Midnight the night before next class
@@ -363,7 +368,8 @@
 						<li>Custom page templates</li>
 					</ul>
 					<aside><p>Week 08 Assignment 05</p></aside>
-					<p>
+					<p><a href="https://learn.dcollege.net/" target="bblearn">BBLearn</a></p>
+					<!-- <p>
 						Due: Midnight the night before next class
 					</p>
 					<ul>
@@ -374,7 +380,7 @@
 							</ul>
 						</li>
 						<li>The URL to your web site should be "http://www.DN.com/wbdv243/POSTNAME". Replace "DN" with your actual domain name. Replace "POSTNAME" with your post permalink name. This URL should go directly to your post page.</li>
-					</ul>
+					</ul> -->
 
 					<hr class="soften">
 
@@ -407,7 +413,8 @@
 						<li>Lecture - Lab</li>
 					</ul>
 					<aside><p>Week 10 Final Project</p></aside>
-					<p>
+					<p><a href="https://learn.dcollege.net/" target="bblearn">BBLearn</a></p>
+					<!-- <p>
 						Due: Midnight the night before Thursday Sept 5th
 					</p>
 					<ul>
@@ -417,7 +424,7 @@
 						<li>Direct link to download your zipped "wp-content" folder i.e. "wp-content-wbdv243-jwt23.zip".</li>
 						<li>Direct link to download your zipped non-password protected MySQL database.</li>
 						<li><a href="http://codex.wordpress.org/Backing_Up_Your_WordPress_Files" target="_blank">How to</a> Back Up Your WordPress Files.</li>
-					</ul>
+					</ul> -->
 				</section>
 
 			</div>
